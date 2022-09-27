@@ -1,6 +1,6 @@
 # See who doesn't follow you back
 ***
-A Python script to find out how many people don't follow you back and who they are.
+## A Python script to find out how many people don't follow you back and who they are.
 
 This script doesn't get your account banned as you don't need to log into your account.
 
